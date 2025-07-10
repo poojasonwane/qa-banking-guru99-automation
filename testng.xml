@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Banking_project">
+	<listeners>
+		<listener class-name="com.banking.utility.Reporting"></listener>
+	</listeners>
+	
+	<test name="Banking Test">
+		<classes>
+			<class name="com.banking.testcases.Tc_login_testcase"></class>
+		</classes>
+	</test>
+
+</suite>

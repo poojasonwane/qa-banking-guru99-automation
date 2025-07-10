@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-09T14:31:55 IST" name="Banking_project" finished-at="2025-07-09T14:32:08 IST" duration-ms="12771">
+    <groups>
+    </groups>
+    <test started-at="2025-07-09T14:31:55 IST" name="Banking Test" finished-at="2025-07-09T14:32:08 IST" duration-ms="12771">
+      <class name="com.banking.testcases.Tc_login_testcase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.banking.testcases.Tc_login_testcase@d86a6f]" started-at="2025-07-09T14:31:56 IST" name="setup" finished-at="2025-07-09T14:32:02 IST" duration-ms="6750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTestCase()[pri:1, instance:com.banking.testcases.Tc_login_testcase@d86a6f]" started-at="2025-07-09T14:32:02 IST" name="loginTestCase" finished-at="2025-07-09T14:32:06 IST" duration-ms="3546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method signature="newcustomertestcase()[pri:2, instance:com.banking.testcases.Tc_login_testcase@d86a6f]" started-at="2025-07-09T14:32:06 IST" name="newcustomertestcase" finished-at="2025-07-09T14:32:08 IST" duration-ms="2092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newcustomertestcase -->
+      </class> <!-- com.banking.testcases.Tc_login_testcase -->
+    </test> <!-- Banking Test -->
+  </suite> <!-- Banking_project -->
+</testng-results>

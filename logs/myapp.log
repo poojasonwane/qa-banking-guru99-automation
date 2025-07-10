@@ -1,0 +1,7 @@
+2025-07-09 14:32:05,155 INFO  [main] Tc_login_testcase - url open
+2025-07-09 14:32:05,370 INFO  [main] Tc_login_testcase - Set Username and Password
+2025-07-09 14:32:06,340 INFO  [main] Tc_login_testcase - Test Case Passed
+2025-07-09 14:32:06,341 INFO  [main] Tc_login_testcase - Open Home Page
+2025-07-09 14:32:06,870 INFO  [main] Tc_login_testcase - Open add new customer page
+2025-07-09 14:32:06,881 INFO  [main] Tc_login_testcase - Test Case Passed
+2025-07-09 14:32:08,447 INFO  [main] Tc_login_testcase - Enter all Details sucessfully
